@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # 💫 About Me:
 "Motivated B.Tech Computer Science and Engineering student  , <br>expertise in  machine learning, and web development.<br> Skilled in C, C++, Python, Java.<br> Passionate about solving real-world challenges through coding,<br> I actively participate in coding competitions and hackathons. <br>Open to internships in software development and machine learning."
